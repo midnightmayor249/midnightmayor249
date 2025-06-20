@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @midnightmayor249
 - 👀 I’m interested in ... learning Dev and joining communities
-- 🌱 I’m currently learning ... Python, JSON, company set up
+- 🌱 I’m currently learning ... Python, JSON, company set up & entrepreneurship
 - 💞️ I’m looking to collaborate on ... apps and programs to improve disability support services
 - 📫 How to reach me ... here or planpathfinders.com
 - 😄 Pronouns: ... he/him
